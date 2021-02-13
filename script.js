@@ -12,5 +12,5 @@ var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula"
 }
 
 })
-helloSpeaker.sayHello();
-byeSpeaker.sayHi();
+helloSpeaker.sayHello(names);
+byeSpeaker.sayHi(names);
