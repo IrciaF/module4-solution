@@ -4,6 +4,7 @@ var helloSpeaker = {
   speak: functin (name) {
   console.log(speakWord + " " + name);
 }
+};
   window.helloSpeaker = helloSpeaker;
 })(window);
  
