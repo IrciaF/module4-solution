@@ -10,4 +10,6 @@ var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula"
   }
 }
 
-})();
+})
+helloSpeaker.sayHello();
+helloSpeaker.sayHi();
