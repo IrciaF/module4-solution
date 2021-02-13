@@ -1,5 +1,5 @@
 (function (window) {
-var helloSpeaker = {};
+var helloSpeaker = [];
   
 var speakWord = "Hello";
 helloSpeaker.sayHello = function () {
